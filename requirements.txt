@@ -1,0 +1,13 @@
+python-dotenv
+google-generativeai
+langgraph
+python-pptx
+pinecone
+pypdf
+streamlit
+langchain-google-genai
+
+# NLP stack without spaCy
+yake
+nltk
+sentence-transformers
